@@ -9,13 +9,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 1.2em;
-    color: gray
+    color: palevioletred
 }
 
 .subheading{
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
-    color: gray
+    color: palevioletred
 }
 
 .bg-primary{
