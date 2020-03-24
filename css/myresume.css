@@ -9,13 +9,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 1.2em;
-    color: white
+    color: brown
 }
 
 .subheading{
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
-    color: white
+    color: brown
 }
 @media (min-width: 992px) {
   body {
