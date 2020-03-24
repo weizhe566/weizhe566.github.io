@@ -2,7 +2,9 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 32px;
-    color: aqua
+    background-color: black
+    color: aquamarine
+    
 }
 
 h1, h2, h3, h4, h5, h6 {
