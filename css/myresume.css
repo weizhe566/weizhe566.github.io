@@ -2,7 +2,7 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 32px;
-    background-image: linear-gradientradial-gradient(white,brown)
+    background-image: radial-gradient(white,brown)
 }
 
 h1, h2, h3, h4, h5, h6 {
