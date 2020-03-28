@@ -2,18 +2,7 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 32px;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px
-}
-
-#container{
-    height:500px;
-    background: -webkit-radial-gradient(circle,white,orange);
-    background: -o-radial-gradient(circle,white,orange);
-    background: -moz-radial-gradient(circle,white,orange);
-    background: radial-gradient(circle,white,orange);
+    background-image: linear-gradientradial-gradient(white,brown)
 }
 
 h1, h2, h3, h4, h5, h6 {
