@@ -2,14 +2,14 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 32px;
-    background-image: radial-gradient(white,brown)
+    background-image: radial-gradient(white,#FF8282,#EB0000)
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 1.2em;
-    color: brown
+    color: ghostwhite
 }
 
 .subheading{
@@ -159,7 +159,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: beige!important;
 }
 
 a {
