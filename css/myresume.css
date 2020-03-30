@@ -155,9 +155,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #FFAC12 
-  background-image: url("3px-tile.png");
-}
+        background-color: #FFAC12 !important
+        background-image: url("img/3px-tile.png");
+} 
 
 .text-primary {
   color: beige!important;
