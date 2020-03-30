@@ -155,7 +155,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-image: radial-gradient(#DDDDDD,#888888,#000000)
+  background-image: url("otis-redding.png");
 }
 
 .text-primary {
