@@ -183,3 +183,11 @@ a:hover, a:focus, a:active {
   line-height: 3.5rem;
   margin-right: 1rem;
 }
+
+#box {
+ width: 100px;
+ height: 100px;
+ background: orange; 
+ margin: 10px;
+ display: inline-block;
+}
