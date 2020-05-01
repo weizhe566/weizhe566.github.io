@@ -184,7 +184,7 @@ a:hover, a:focus, a:active {
   margin-right: 1rem;
 }
 
-#box {
+.box {
  width: 100px;
  height: 100px;
  background: orange; 
