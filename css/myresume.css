@@ -195,12 +195,12 @@ a:hover, a:focus, a:active {
  text-align: center;
 }
 
-  #gallery .box .img-profile {
+#gallery .box .img-profile {
     max-width: 10rem;
     max-height: 25rem;
 }
 
-#.use-transform div{
+#gallery .use-transform div{
     position: relative;
     width:100px;
     height:50px;
