@@ -185,8 +185,8 @@ a:hover, a:focus, a:active {
 }
 
 .box {
- width: 400px;
- height: 600px;
+ width: 250px;
+ height: 300px;
  background: antiquewhite; 
  margin: 10px;
  display: inline-block;
