@@ -192,6 +192,7 @@ a:hover, a:focus, a:active {
  display: inline-block;
  border: 5px solid black;
  position: relative;
+ text-align: center;
 }
 
   #gallery .box .img-profile {
