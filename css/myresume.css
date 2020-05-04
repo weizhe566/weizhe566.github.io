@@ -193,18 +193,11 @@ a:hover, a:focus, a:active {
  border: 5px solid black;
  position: relative;
  text-align: center;
+ font-size: 26px;
+ padding: 20px;
 }
 
 #gallery .box .img-profile {
     max-width: 10rem;
     max-height: 25rem;
-}
-#gallery .div0::before{
-  content:'';
-  width:0;
-  height:100%;
-  display:inline-block;
-  position:relative;
-  vertical-align:middle;
-
 }
