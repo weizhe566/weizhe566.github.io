@@ -2,7 +2,7 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
     font-size: 32px;
-    background-image: radial-gradient(white,#C4C4C4,#FF1212)
+    background-image: radial-gradient(white,#C4C4C4,#7B7B7B)
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 .subheading{
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
-    color: #FFDEA1	
+    color: #FF2D2D	
 }
 @media (min-width: 992px) {
   body {
